@@ -6,11 +6,14 @@
 
 Here's some recent projects I've worked on:
 
-[![Alzheimer's Disease Prediction 🧠](https://kenogihara.github.io/alzheimers_project/)
+[!Alzheimer's Disease Predicto]
 
-[![Mass Shooting Analysis 🔫🔪](https://kenogihara.github.io/mass_shooting_project/)
 
-[![Predictive Analysis on Power Outages 🔌⚡️](https://kenogihara.github.io/dsc80-final-project-ken/)
+[Alzheimer's Disease Prediction 🧠](https://kenogihara.github.io/alzheimers_project/)
+
+[Mass Shooting Analysis 🔫🔪](https://kenogihara.github.io/mass_shooting_project/)
+
+[Predictive Analysis on Power Outages 🔌⚡️](https://kenogihara.github.io/dsc80-final-project-ken/)
 
 
 
