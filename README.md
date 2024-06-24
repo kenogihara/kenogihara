@@ -1,4 +1,4 @@
-![alt text](/Users/kenogihara/Downloads/giphy.gif)
+![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/297f875b-7c6a-43d2-a3f8-2e633346aa1f/dcbj0j2-596f6600-a24a-45e3-8fb9-f400ee8f0f73.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5N2Y4NzViLTdjNmEtNDNkMi1hM2Y4LTJlNjMzMzQ2YWExZlwvZGNiajBqMi01OTZmNjYwMC1hMjRhLTQ1ZTMtOGZiOS1mNDAwZWU4ZjBmNzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pZd-xHJMYFIEDjFBaQz_0hPB9key5lF5LKYhm9qlGAs)
 
 
 # 👋 Hi, I'm Ken!
