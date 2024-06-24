@@ -1,13 +1,10 @@
 ![Banner](https://media2.giphy.com/media/vgd2aXjyeUkgUTnfjg/giphy.gif?cid=6c09b9522xcwgoncqig3n8wvwqeoejrqghwjouj2gz5k8cus&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
-# 👋 Hi, I'm Ken!
-💻 🎓 I'm an undergraduate student majoring in Business Economics and minoring in Data Science at the University of California, San Dieg!<br/>
+# 👋 こんにちは -> Hi, I'm Ken!
+💻 🎓 I'm an undergraduate student majoring in Business Economics and minoring in Data Science at the University of California, San Diego!<br/>
 
-Here's some recent projects I've worked on:
-
-[!Alzheimer's Disease Predicto]
-
+Here's a few projects I've been working on!
 
 [Alzheimer's Disease Prediction 🧠](https://kenogihara.github.io/alzheimers_project/)
 
