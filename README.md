@@ -2,7 +2,15 @@
 
 
 # 👋 Hi, I'm Ken!
-💻 🎓 I'm an undergraduate student studying [Economics and Data Science](https://ucsd.edu/) at the University of California, San Diego<br/>
+💻 🎓 I'm an undergraduate student majoring in Business Economics and minoring in Data Science at the University of California, San Dieg!<br/>
+
+Here's some recent projects I've worked on:
+
+[Alzheimer's Disease Prediction](https://kenogihara.github.io/alzheimers_project/)
+[Mass Shooting Analysis](https://www.example.com)
+[Predictive Analysis on Power Outages](https://kenogihara.github.io/dsc80-final-project-ken/)
+
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
