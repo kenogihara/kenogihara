@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+![alt text](/Users/kenogihara/Downloads/giphy.gif)
+
 
 # 👋 Hi, I'm Ken!
 💻 🎓 I'm an undergraduate student studying [Economics and Data Science](https://ucsd.edu/) at the University of California, San Diego<br/>
