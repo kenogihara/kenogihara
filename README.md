@@ -8,6 +8,8 @@ Here's a few projects I've been working on!
 
 [Alzheimer's Disease Prediction 🧠](https://kenogihara.github.io/alzheimers_project/)
 
+[Sentiment Analysis on Hotel Reviews 🏘️](https://kenogihara.github.io/sentiment_analysis/)
+
 [Mass Shooting Analysis 🔫🔪](https://kenogihara.github.io/mass_shooting_project/)
 
 [Predictive Analysis on Power Outages 🔌⚡️](https://kenogihara.github.io/dsc80-final-project-ken/)
